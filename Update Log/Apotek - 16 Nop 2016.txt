@@ -1,0 +1,14 @@
+1. enter pada pilih supplier [Form Pembelian]
+2. bayar bisa diisi huruf [form penjualan
+3. harga jual resep [form pembelian]
+4. get id satuan ubah tidak terdeteksi menjadi id satuan
+5. cetak laporan penjualan
+6. grand total laporan pembelian 
+7. laporan absensi berdasarkan nama,  tahun , bulan dan tanggal
+8. warning stok habis 
+9. tampilan password pada data user (diganti ****) 
+10. hapus konfirmasi pass
+11. asisten apoteker dan apoteker hanya transaksi pembelian dan transaksi penjualan
+12. disable tab pada datagridview pencarian data supplier
+13. close form saat logout
+14. FormLaporanLabaRugi diperbaiki isinya

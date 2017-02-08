@@ -1,0 +1,1950 @@
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1D\Apotik_1A\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1H\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1I\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\Apotik_1J-1\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder (2)\Apotik_1J-3\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-4\Apotik_1A\obj\Release\Apotik_1A.pdb
+F:\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe
+F:\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe.config
+F:\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+F:\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.application
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Interop.ADODB.dll
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.application
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.exe
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.xml
+F:\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-7\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.vbprojResolveAssemblyReference.cache
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\PUTRA\Documents\Visual Studio 2012\Projects\Apotik_1J-9\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-10\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\PUTRA\Downloads\Apotik_1J-12\Apotik_1J-12\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-13\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-14\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-15\Apotik_1A\obj\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.exe.config
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.application
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.exe
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.pdb
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\bin\Release\Apotik_1A.xml
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Interop.ADODB.dll
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.application
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.exe
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.xml
+C:\Users\PUTRA\Downloads\Apotik_1J-17\Apotik_1J-17\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-18\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-19\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-20\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-21\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-22B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-23B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-24B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\Apotik_1J-25B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\New folder (2)\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\16 Nop 2016\Apotik_1J-26B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Sharing\16 Nop 2016\Apotik_1J-27B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Sharing\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\21 Nop 2016\Apotik_1J-28B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\24 Nop 2016\Apotik_1J-29B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Sharing\28 Nop 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Sharing\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\2 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Kasir Apotek\New folder\20 Des 2016\Apotik_1J-30B\Apotik_1A\obj\Release\Apotik_1A.pdb
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.exe.config
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.exe.manifest
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.application
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.exe
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.pdb
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Apotik_1A.xml
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.vbprojResolveAssemblyReference.cache
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Interop.ADODB.dll
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.vbproj.ResolveComReference.cache
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanAbsensi.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanLabaRugi.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPeringatankadaluarsa.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPeringatan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataSupplier.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataResep.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDaftarRacikan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataRacikan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataKasir.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataAdmin.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPenjualan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanPembelian.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanHistoryHarga.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanObatExpiredHabis.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLaporanStokObat.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataUser.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormMaintenanceDataObats.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataPelanggan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPencarianDataObat.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPencarianStokObat.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiKeuangan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPenjualan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormTransaksiPembelian.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataSupplier.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataLokasi.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataKategori.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataSatuan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataObats.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataPelanggan.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataAsistenApoteker.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormDataApoteker.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormMenu.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormLogin.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.FormPengaturanUser.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.Resources.resources
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.vbproj.GenerateResource.Cache
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.exe.manifest
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.application
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.exe
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.xml
+D:\Sukses InsyaAllaah\Apotek\Apotik_1A\obj\Release\Apotik_1A.pdb

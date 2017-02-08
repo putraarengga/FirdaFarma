@@ -1,0 +1,4 @@
+1. Data pada daftar racikan diubah
+2. database ID Racikan pada tabel racikan diubah jadi urutan dan dipisah
+3. ID racikan dibuat per nomor faktur
+4. 

@@ -1,0 +1,6 @@
+1. Laporan laba rugi dibuat tabel
+2. Laporan penjualan,History, Laba/rugi, Experied dibuat cetak excel
+3. Pembenahan angka dengan titik koma
+4. ada jam pada pembelian dan penjualan
+5. Pembulatan angka
+6. Perbaikan form racikan dan resep
