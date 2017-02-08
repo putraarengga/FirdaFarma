@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F815179B-1169-4C1A-8721-682D59BE77D3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Apotik_1A.My.MyApplication</StartupObject>
+    <RootNamespace>Apotik_1A</RootNamespace>
+    <AssemblyName>Apotik_1A</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Apotik_1A.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Apotik_1A.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>607D02302DFA0597402558C8707F1372C55DEEA7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Apotik_1A_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>drugstore.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="FormLaporanAbsensi.Designer.vb">
+      <DependentUpon>FormLaporanAbsensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanAbsensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanLabaRugi.Designer.vb">
+      <DependentUpon>FormLaporanLabaRugi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanLabaRugi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPeringatanKadaluarsa.Designer.vb">
+      <DependentUpon>FormPeringatanKadaluarsa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPeringatanKadaluarsa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPeringatan.Designer.vb">
+      <DependentUpon>FormPeringatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPeringatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPencarianDataSupplier.Designer.vb">
+      <DependentUpon>FormPencarianDataSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPencarianDataSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataResep.Designer.vb">
+      <DependentUpon>FormDataResep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataResep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDaftarRacikan.Designer.vb">
+      <DependentUpon>FormDaftarRacikan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDaftarRacikan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataRacikan.Designer.vb">
+      <DependentUpon>FormDataRacikan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataRacikan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataKasir.Designer.vb">
+      <DependentUpon>FormDataKasir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataKasir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataAdmin.Designer.vb">
+      <DependentUpon>FormDataAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanPenjualan.Designer.vb">
+      <DependentUpon>FormLaporanPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanPembelian.Designer.vb">
+      <DependentUpon>FormLaporanPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanHistoryHarga.Designer.vb">
+      <DependentUpon>FormLaporanHistoryHarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanHistoryHarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanObatExpiredHabis.Designer.vb">
+      <DependentUpon>FormLaporanObatExpiredHabis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanObatExpiredHabis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanStokObat.Designer.vb">
+      <DependentUpon>FormLaporanStokObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanStokObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataUser.Designer.vb">
+      <DependentUpon>FormDataUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMaintenanceDataObats.Designer.vb">
+      <DependentUpon>FormMaintenanceDataObats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMaintenanceDataObats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPencarianDataPelanggan.Designer.vb">
+      <DependentUpon>FormPencarianDataPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPencarianDataPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPencarianDataObat.Designer.vb">
+      <DependentUpon>FormPencarianDataObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPencarianDataObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPencarianStokObat.Designer.vb">
+      <DependentUpon>FormPencarianStokObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPencarianStokObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksiKeuangan.Designer.vb">
+      <DependentUpon>FormTransaksiKeuangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksiKeuangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksiPenjualan.Designer.vb">
+      <DependentUpon>FormTransaksiPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksiPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksiPembelian.Designer.vb">
+      <DependentUpon>FormTransaksiPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksiPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataSupplier.Designer.vb">
+      <DependentUpon>FormDataSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataLokasi.Designer.vb">
+      <DependentUpon>FormDataLokasi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataLokasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataKategori.Designer.vb">
+      <DependentUpon>FormDataKategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataKategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataSatuan.Designer.vb">
+      <DependentUpon>FormDataSatuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataSatuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataObats.Designer.vb">
+      <DependentUpon>FormDataObats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataObats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataPelanggan.Designer.vb">
+      <DependentUpon>FormDataPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataAsistenApoteker.Designer.vb">
+      <DependentUpon>FormDataAsistenApoteker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataAsistenApoteker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataApoteker.Designer.vb">
+      <DependentUpon>FormDataApoteker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataApoteker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.vb">
+      <DependentUpon>FormMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPengaturanUser.Designer.vb">
+      <DependentUpon>FormPengaturanUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPengaturanUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MdlKoneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormLaporanAbsensi.resx">
+      <DependentUpon>FormLaporanAbsensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanLabaRugi.resx">
+      <DependentUpon>FormLaporanLabaRugi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPeringatanKadaluarsa.resx">
+      <DependentUpon>FormPeringatanKadaluarsa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPeringatan.resx">
+      <DependentUpon>FormPeringatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPencarianDataSupplier.resx">
+      <DependentUpon>FormPencarianDataSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataResep.resx">
+      <DependentUpon>FormDataResep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDaftarRacikan.resx">
+      <DependentUpon>FormDaftarRacikan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataRacikan.resx">
+      <DependentUpon>FormDataRacikan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataKasir.resx">
+      <DependentUpon>FormDataKasir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataAdmin.resx">
+      <DependentUpon>FormDataAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanPenjualan.resx">
+      <DependentUpon>FormLaporanPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanPembelian.resx">
+      <DependentUpon>FormLaporanPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanHistoryHarga.resx">
+      <DependentUpon>FormLaporanHistoryHarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanObatExpiredHabis.resx">
+      <DependentUpon>FormLaporanObatExpiredHabis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanStokObat.resx">
+      <DependentUpon>FormLaporanStokObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataUser.resx">
+      <DependentUpon>FormDataUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMaintenanceDataObats.resx">
+      <DependentUpon>FormMaintenanceDataObats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPencarianDataPelanggan.resx">
+      <DependentUpon>FormPencarianDataPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPencarianDataObat.resx">
+      <DependentUpon>FormPencarianDataObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPencarianStokObat.resx">
+      <DependentUpon>FormPencarianStokObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksiKeuangan.resx">
+      <DependentUpon>FormTransaksiKeuangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksiPenjualan.resx">
+      <DependentUpon>FormTransaksiPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksiPembelian.resx">
+      <DependentUpon>FormTransaksiPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataSupplier.resx">
+      <DependentUpon>FormDataSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataLokasi.resx">
+      <DependentUpon>FormDataLokasi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataKategori.resx">
+      <DependentUpon>FormDataKategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataSatuan.resx">
+      <DependentUpon>FormDataSatuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataObats.resx">
+      <DependentUpon>FormDataObats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataPelanggan.resx">
+      <DependentUpon>FormDataPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataAsistenApoteker.resx">
+      <DependentUpon>FormDataAsistenApoteker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataApoteker.resx">
+      <DependentUpon>FormDataApoteker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPengaturanUser.resx">
+      <DependentUpon>FormPengaturanUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Apotik_1A_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{2A75196C-D9EB-4129-B803-931327F72D5C}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="drugstore.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
