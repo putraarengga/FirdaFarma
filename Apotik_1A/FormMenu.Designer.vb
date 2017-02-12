@@ -36,6 +36,7 @@ Partial Class FormMenu
         Me.TRANSAKSIToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TRANSAKSIPEMBELIANToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TRANSAKSIPENJUALANToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.TRANSAKSIKEUANGANToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LAPORANToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LAPORANDATAMASTERToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.DATAOBATToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
@@ -52,7 +53,7 @@ Partial Class FormMenu
         Me.LOGINToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Lbl_Date = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.TRANSAKSIKEUANGANToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.DATAOPNAMEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -79,7 +80,7 @@ Partial Class FormMenu
         '
         'MASTERToolStripMenuItem
         '
-        Me.MASTERToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DATAOBATToolStripMenuItem, Me.DATAToolStripMenuItem})
+        Me.MASTERToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DATAOBATToolStripMenuItem, Me.DATAToolStripMenuItem, Me.DATAOPNAMEToolStripMenuItem})
         Me.MASTERToolStripMenuItem.Name = "MASTERToolStripMenuItem"
         Me.MASTERToolStripMenuItem.ShortcutKeyDisplayString = ""
         Me.MASTERToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Alt Or System.Windows.Forms.Keys.M), System.Windows.Forms.Keys)
@@ -151,6 +152,12 @@ Partial Class FormMenu
         Me.TRANSAKSIPENJUALANToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F2
         Me.TRANSAKSIPENJUALANToolStripMenuItem.Size = New System.Drawing.Size(222, 22)
         Me.TRANSAKSIPENJUALANToolStripMenuItem.Text = "TRANSAKSI PENJUALAN"
+        '
+        'TRANSAKSIKEUANGANToolStripMenuItem
+        '
+        Me.TRANSAKSIKEUANGANToolStripMenuItem.Name = "TRANSAKSIKEUANGANToolStripMenuItem"
+        Me.TRANSAKSIKEUANGANToolStripMenuItem.Size = New System.Drawing.Size(222, 22)
+        Me.TRANSAKSIKEUANGANToolStripMenuItem.Text = "TRANSAKSI KEUANGAN"
         '
         'LAPORANToolStripMenuItem
         '
@@ -258,11 +265,11 @@ Partial Class FormMenu
         Me.Timer1.Enabled = True
         Me.Timer1.Interval = 1000
         '
-        'TRANSAKSIKEUANGANToolStripMenuItem
+        'DATAOPNAMEToolStripMenuItem
         '
-        Me.TRANSAKSIKEUANGANToolStripMenuItem.Name = "TRANSAKSIKEUANGANToolStripMenuItem"
-        Me.TRANSAKSIKEUANGANToolStripMenuItem.Size = New System.Drawing.Size(222, 22)
-        Me.TRANSAKSIKEUANGANToolStripMenuItem.Text = "TRANSAKSI KEUANGAN"
+        Me.DATAOPNAMEToolStripMenuItem.Name = "DATAOPNAMEToolStripMenuItem"
+        Me.DATAOPNAMEToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.DATAOPNAMEToolStripMenuItem.Text = "DATA  OPNAME"
         '
         'FormMenu
         '
@@ -316,4 +323,5 @@ Partial Class FormMenu
     Friend WithEvents LOGINToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents LAPORANLABARUGIToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TRANSAKSIKEUANGANToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents DATAOPNAMEToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class

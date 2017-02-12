@@ -113,6 +113,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="FormDataOpname.Designer.vb">
+      <DependentUpon>FormDataOpname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataOpname.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FormLaporanAbsensi.Designer.vb">
       <DependentUpon>FormLaporanAbsensi.vb</DependentUpon>
     </Compile>
@@ -336,6 +342,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FormDataOpname.resx">
+      <DependentUpon>FormDataOpname.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormLaporanAbsensi.resx">
       <DependentUpon>FormLaporanAbsensi.vb</DependentUpon>
     </EmbeddedResource>

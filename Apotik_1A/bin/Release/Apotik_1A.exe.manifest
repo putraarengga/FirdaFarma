@@ -48,14 +48,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Apotik_1A.exe" size="661504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Apotik_1A.exe" size="704000">
       <assemblyIdentity name="Apotik_1A" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1Y2li7cVLxDRrdnI3oj/4PZvDnHxyEXruZNCeHAfdho=</dsig:DigestValue>
+        <dsig:DigestValue>vdZhxynIBMLh2wuZFl4B/5uY7pRrAJLtj6X1xsFiIlY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

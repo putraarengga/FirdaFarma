@@ -16,8 +16,8 @@ Public Class FormLogin
         
         connect = New MySqlConnection
         'connect.ConnectionString = "server=192.168.1.1;userid=root;database=giandi"
-        connect.ConnectionString = "server=localhost;userid=root;password=123Siapasaja;database=giandi2"
-        'connect.ConnectionString = "server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=giandi"
+        'connect.ConnectionString = "server=localhost;userid=root;password=123Siapasaja;database=giandi2"
+        connect.ConnectionString = "server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=apotek"
         Dim reader As MySqlDataReader
         Dim userFound As Boolean = False
         Dim FullName As String = ""

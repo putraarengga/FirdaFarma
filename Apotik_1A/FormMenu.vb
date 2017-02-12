@@ -342,4 +342,9 @@
     End Sub
 
     
+    Private Sub DATAOPNAMEToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DATAOPNAMEToolStripMenuItem.Click
+        FormDataOpname.MdiParent = Me
+        FormDataOpname.Show()
+        FormDataOpname.Focus()
+    End Sub
 End Class

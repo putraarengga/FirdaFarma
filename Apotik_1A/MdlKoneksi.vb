@@ -21,8 +21,8 @@ Module MdlKoneksi
         Try
             'konek = New OdbcConnection("Dsn=apotek;server=192.168.1.1;userid=root;database=giandi;port=3306")
             'konek = New OdbcConnection("Dsn=apotek2;server=localhost;userid=root;password=123Siapasaja;database=giandi2;port=3306")
-            konek = New OdbcConnection("Dsn=apotek2;server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=giandi2;port=3306")
-            'konek = New OdbcConnection("Dsn=apoxsy;server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=giandi;port=3306")
+            'konek = New OdbcConnection("Dsn=apotek2;server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=giandi2;port=3306")
+            konek = New OdbcConnection("Dsn=apoxsy;server=localhost;userid=root;password=r7pqv6s6Xc9QbZKK;database=apotek;port=3306")
             If konek.State = ConnectionState.Closed Then
                 konek.Open()
             End If
